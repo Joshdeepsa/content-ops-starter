@@ -32,7 +32,7 @@
         {
             "label": "Blog",
             "altText": "Subscribe",
-            "url": "/blog",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
