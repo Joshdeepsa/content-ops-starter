@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Josh & Freindz Podcast
       color: text-dark
       type: TitleBlock
     subtitle: Personal productivity meets everything entertainment
