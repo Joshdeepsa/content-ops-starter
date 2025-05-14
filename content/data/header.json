@@ -31,7 +31,7 @@
         },
         {
             "label": "Blog",
-            "altText": "Blog",
+            "altText": "Subscribe",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
