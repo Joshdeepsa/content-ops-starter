@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Josh & Freindz Podcast
+      text: Helping young professionals grow without burnout
       color: text-dark
       type: TitleBlock
     subtitle: Personal productivity meets everything entertainment
